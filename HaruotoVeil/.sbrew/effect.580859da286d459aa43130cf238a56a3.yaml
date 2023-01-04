@@ -1,0 +1,30 @@
+﻿FormatVersion: 7
+Name: "Image Yay 02"
+Script: "Image"
+Multithreaded: No
+Config:
+  BackgroundPath1:
+    Type: "System.String"
+    Value: "sb/yay/02.png"
+  BackgroundPath2:
+    Type: "System.String"
+    Value: "sb/yay/02_2.png"
+  StartTime:
+    Type: "System.Int32"
+    Value: "172520"
+  EndTime:
+    Type: "System.Int32"
+    Value: "177853"
+  Opacity:
+    Type: "System.Double"
+    Value: "1"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  4383d4d009c04df182a44a8d22c55e43:
+    Name: "Main"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

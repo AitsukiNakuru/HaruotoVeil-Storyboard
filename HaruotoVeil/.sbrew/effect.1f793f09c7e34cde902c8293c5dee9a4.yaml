@@ -1,0 +1,30 @@
+﻿FormatVersion: 7
+Name: "Image 1"
+Script: "Image"
+Multithreaded: No
+Config:
+  BackgroundPath1:
+    Type: "System.String"
+    Value: "sb/other/01.png"
+  BackgroundPath2:
+    Type: "System.String"
+    Value: "sb/other/01_2.png"
+  StartTime:
+    Type: "System.Int32"
+    Value: "249186"
+  EndTime:
+    Type: "System.Int32"
+    Value: "260520"
+  Opacity:
+    Type: "System.Double"
+    Value: "1"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  5874d156677b4279ae845f8fc5e5d1d1:
+    Name: "Main"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

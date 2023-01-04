@@ -1,0 +1,25 @@
+﻿FormatVersion: 7
+Name: "Drop3 1"
+Script: "Drop3"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  650c008b9c174e2594c8b27e2eda0b8e:
+    Name: "DropBackground"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  11c32400631c4268ae71f840b907f134:
+    Name: "DropBody"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  30d4b2abdac5461b8b3e34eaec02b59f:
+    Name: "DropEffect"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

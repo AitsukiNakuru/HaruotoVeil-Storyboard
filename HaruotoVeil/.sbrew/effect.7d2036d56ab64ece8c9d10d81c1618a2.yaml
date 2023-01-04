@@ -1,0 +1,20 @@
+﻿FormatVersion: 7
+Name: "Eri 1"
+Script: "Eri"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  20c3e461571747ba9c2f8a29b2f9a50d:
+    Name: "EriBackground"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  140fe583bba4455c973329ffb120978e:
+    Name: "EriBody"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

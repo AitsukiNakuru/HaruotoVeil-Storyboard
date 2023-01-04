@@ -1,0 +1,20 @@
+﻿FormatVersion: 7
+Name: "Kaz 1"
+Script: "Kaz"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  204657f0e1d34864b48f5d983d9f07ab:
+    Name: "KazBackground"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  4121fdc0f7e44c44895036c772f88fc9:
+    Name: "KazBody"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
